@@ -1,0 +1,3 @@
+/Users/andrejpozilenkov/CPP/App/App_build/CMakeFiles/App.dir
+/Users/andrejpozilenkov/CPP/App/App_build/CMakeFiles/edit_cache.dir
+/Users/andrejpozilenkov/CPP/App/App_build/CMakeFiles/rebuild_cache.dir
